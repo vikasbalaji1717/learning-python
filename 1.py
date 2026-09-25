@@ -1,0 +1,16 @@
+# Arithmetic and Comparison Operators in Python 
+a = 10
+b = 5
+print("Addition:", a + b)
+print("Subtraction:", a - b)
+print("Multiplication:", a * b)
+print("Division:", a / b)
+print("Modulus:", a % b)
+print("Exponentiation:", a ** b)
+print("Floor Division:", a // b)
+print("Comparison (a > b):", a > b)
+print("Comparison (a < b):", a < b)
+print("Comparison (a == b):", a == b)
+print("Comparison (a != b):", a != b)
+print("Comparison (a >= b):", a >= b)
+print("Comparison (a <= b):", a <= b)
